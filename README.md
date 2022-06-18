@@ -1,0 +1,2 @@
+# Blog-app
+Django models
